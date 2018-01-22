@@ -1,4 +1,1 @@
-hello
-world
-hi all
-how are you
+removed old data n added new from remote
